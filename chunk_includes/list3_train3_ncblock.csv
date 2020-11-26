@@ -30,6 +30,6 @@ train3,list3,60,Schuh_weiss,Schuh,weiss,50,LFP,SP,ncblock,clothing,Schuh_weiss,s
 train3,list3,61,Tisch_alt,Tisch,alt,54,LFP,SP,ncblock,furniture,Tisch_alt,tisch_alt.png
 train3,list3,62,Turm_alt,Turm,alt,58,HFP,SN,ncblock,building,Turm_schwarz,turm_schwarz.png
 train3,list3,63,Uhr_gross,Uhr,gross,59,HFP,SP,ncblock,tool,Uhr_gross,uhr_gross.png
-train3,list3,64,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,ncblock,nature,Wolke_weiss,Wolke_weiss.png
-train3,list3,65,Wueste_gross,Wueste,gross,61,HFP,SN,ncblock,nature,Wueste_neu,Wueste_neu.png
+train3,list3,64,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,ncblock,nature,Wolke_weiss,wolke_weiss.png
+train3,list3,65,Wueste_gross,Wueste,gross,61,HFP,SN,ncblock,nature,Wueste_neu,wueste_neu.png
 train3,list3,66,Zelt_alt,Zelt,alt,63,LFP,SN,ncblock,building,Zelt_rot,zelt_rot.png
