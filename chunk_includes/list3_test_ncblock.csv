@@ -30,7 +30,7 @@ Test,list3,55,Uhr_gross,Uhr,gross,59,HFP,SP,ncblock,tool,Uhr_gross,uhr_gross.png
 Test,list3,56,Palast_neu,Palast,neu,43,LFP,SN,ncblock,building,Palast_neu,palast_neu.png
 Test,list3,57,Brille_klein,Brille,klein,10,LFP,SP,ncblock,etc,Brille_klein,brille_klein.png
 Test,list3,58,Fahrrad_klein,Fahrrad,klein,19,LFP,SN,ncblock,transportation,Fahrrad_klein,fahrrad_klein.png
-Test,list3,59,Wueste_gross,Wueste,gross,61,HFP,SN,ncblock,nature,Wueste_gross,Wueste_gross.png
+Test,list3,59,Wueste_gross,Wueste,gross,61,HFP,SN,ncblock,nature,Wueste_gross,wueste_gross.png
 Test,list3,60,Herd_alt,Herd,alt,28,LFP,SP,ncblock,tool,Herd_alt,herd_alt.png
 Test,list3,61,Nest_klein,Nest,klein,41,HFP,SP,ncblock,building,Nest_klein,nest_klein.png
 Test,list3,62,Apfel_neu,Apfel,neu,1,LFP,SP,ncblock,food,Apfel_neu,apfel_neu.png

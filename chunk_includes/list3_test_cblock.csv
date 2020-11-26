@@ -14,7 +14,7 @@ Test,list3,12,Zweig_gruen,Zweig,gruen,65,HFP,SN,cblock,nature,Zweig_gruen,zweig_
 Test,list3,13,Lampe_rot,Lampe,rot,37,HFP,SP,cblock,furniture,Lampe_rot,lampe_rot.png
 Test,list3,14,Schuh_weiss,Schuh,weiss,50,LFP,SP,cblock,clothing,Schuh_weiss,schuh_weiss.png
 Test,list3,15,Haus_schwarz,Haus,schwarz,26,LFP,SP,cblock,building,Haus_schwarz,haus_schwarz.png
-Test,list3,16,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,cblock,nature,Wolke_schwarz,Wolke_schwarz.png
+Test,list3,16,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,cblock,nature,Wolke_schwarz,wolke_schwarz.png
 Test,list3,17,Teppich_rot,Teppich,rot,53,HFP,SP,cblock,furniture,Teppich_rot,teppich_rot.png
 Test,list3,18,Ball_rot,Ball,rot,2,HFP,SP,cblock,tool,Ball_rot,ball_rot.png
 Test,list3,19,Pfeil_gruen,Pfeil,gruen,44,HFP,SP,cblock,etc,Pfeil_gruen,pfeil_gruen.png
