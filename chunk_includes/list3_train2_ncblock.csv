@@ -32,6 +32,6 @@ train2,list3,60,Topf_gross,Topf,gross,56,HFP,SP,ncblock,tool,Topf_gross,topf_gro
 train2,list3,61,Tuer_schwarz,Tuer,schwarz,57,LFP,SN,ncblock,building,Tuer_gross,tuer_gross.png
 train2,list3,62,Turm_alt,Turm,alt,58,HFP,SN,ncblock,building,Turm_gross,turm_gross.png
 train2,list3,63,Uhr_gross,Uhr,gross,59,HFP,SP,ncblock,tool,Uhr_gross,uhr_gross.png
-train2,list3,64,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,ncblock,nature,Wolke_neu,Wolke_neu.png
-train2,list3,65,Wueste_gross,Wueste,gross,61,HFP,SN,ncblock,nature,Wueste_alt,Wueste_alt.png
+train2,list3,64,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,ncblock,nature,wolke_neu,Wolke_neu.png
+train2,list3,65,Wueste_gross,Wueste,gross,61,HFP,SN,ncblock,nature,Wueste_alt,wueste_alt.png
 train2,list3,66,Zeitung_alt,Zeitung,alt,62,HFP,SP,ncblock,etc,Zeitung_alt,zeitung_alt.png
