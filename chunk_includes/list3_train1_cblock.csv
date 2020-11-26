@@ -25,8 +25,8 @@ train1,list3,23,Stadion_gruen,Stadion,gruen,51,LFP,SP,cblock,building,Stadion_gr
 train1,list3,24,Teppich_rot,Teppich,rot,53,HFP,SP,cblock,furniture,Teppich_rot,teppich_rot.png
 train1,list3,25,Tomate_gruen,Tomate,gruen,55,HFP,SP,cblock,vegetable,Tomate_gruen,tomate_gruen.png
 train1,list3,26,Turm_alt,Turm,alt,58,HFP,SN,cblock,building,Turm_gruen,turm_gruen.png
-train1,list3,27,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,cblock,nature,Wolke_gruen,Wolke_gruen.png
-train1,list3,28,Wueste_gross,Wueste,gross,61,HFP,SN,cblock,nature,Wueste_schwarz,Wueste_schwarz.png
+train1,list3,27,Wolke_schwarz,Wolke,schwarz,60,HFP,SN,cblock,nature,Wolke_gruen,wolke_gruen.png
+train1,list3,28,Wueste_gross,Wueste,gross,61,HFP,SN,cblock,nature,Wueste_schwarz,wueste_schwarz.png
 train1,list3,29,Zelt_alt,Zelt,alt,63,LFP,SN,cblock,building,Zelt_schwarz,zelt_schwarz.png
 train1,list3,30,Zweig_gruen,Zweig,gruen,65,HFP,SN,cblock,nature,Zweig_rot,zweig_rot.png
 train1,list3,31,Zwiebel_rot,Zwiebel,rot,66,HFP,SP,cblock,vegetable,Zwiebel_rot,zwiebel_rot.png
